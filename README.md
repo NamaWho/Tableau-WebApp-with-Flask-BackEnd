@@ -1,3 +1,6 @@
+#Developed by
+Daniel Namaki, Andrea Delli, Simone Carletti
+
 # Tableau WebApp with Flask backend
 Web Server with Python Flask back-end and authentication, with login and a Tableau dashboard management.
 
