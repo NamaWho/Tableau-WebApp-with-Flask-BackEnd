@@ -1,4 +1,4 @@
-#Developed by
+# Developed by
 Daniel Namaki, Andrea Delli, Simone Carletti
 
 # Tableau WebApp with Flask backend
